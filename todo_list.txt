@@ -1,0 +1,18 @@
+* Characters falling through new floor
+	* Look at setup for new project
+* Where does the behavior tree start execution?
+	* Change the BT used for the controller and character to see which one is being used
+* Both the character and the controller have behavior trees set?
+* Make the behavior tree accessible so I can turn it on and off
+* Load level when reset button is pressed
+* Only reset positions and turn off behavior tree when button is pressed
+* Add keybinding remapping
+* Make keybinding remapping persistent
+* Add main menu
+* Create Seek/Flee description UI elements
+* Optimize static meshes
+* Read about optimization
+* Run profiler
+* Read about packaging
+* Package
+* Distribute - itch.io? Is that allowed with unreal stuff?
